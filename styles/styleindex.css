@@ -37,7 +37,6 @@ button {
     box-shadow: inset 12px 12px 24px #bf799c, inset -12px -12px 24px #ffc9ff;
     cursor: pointer;
     border: 0;
-    text-decoration: none;
 }
 
 a {
