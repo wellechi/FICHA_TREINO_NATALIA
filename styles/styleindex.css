@@ -19,16 +19,23 @@ body {
 
 h1 {
     padding-top: 25px;
-    font-size: 50px;
+    font-size: 30px;
     color: white;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
     font-family: 'Quintessential', cursive;
 }
 
+h2 {
+    padding-top: 25px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+    font-family: 'Quintessential', cursive;
+}
 button {
     margin: 10px;
-    width: 250px;
-    height: 70px;
+    width: 200px;
+    height: 60px;
     font-family: 'Quintessential', cursive;
     font-size: 18px;
     border-radius: 10px;
